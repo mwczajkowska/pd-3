@@ -1,0 +1,15 @@
+
+1) sukces = Suma z (score * viewcount) / 1000 Posts.OwnerUseId = Users.Id  dwa wskaźniki jeden suma po wszystkim, drugi średnia
+
+Co może wpływać na sukces?
+Dzielimy użytkowników na grupy ze względu na:
+- Długość użytkowania serwisu LastAccessDate - Creation Date (0 - 1 lat, 1 - 2 lat, 2 - 5 lat, 5 - 10 lat) w każdej grupie obliczamy średni sukces (więc liczność grup nie gra roli)
+- Kontrowersyjność DownVotes / UpVotes (0 - 0.25, 0.25 - 0. 75, 0.75 - 1, >1) (DownVotes / (UpVotes + DownVotes)) * 100%
+
+Dwie tabele grupa / średni sukces i  z tego wykresy
+
+2) Jakie hobby? (Users.AccountId) zliczanie 
+3) Najbardziej aktywna grupa użytkowników
+podsumowanie rok po roku wszystkie posty na rok na danym forum 2010, 2011...
+
+
