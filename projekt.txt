@@ -12,4 +12,14 @@ Dwie tabele grupa / średni sukces i  z tego wykresy
 3) Najbardziej aktywna grupa użytkowników
 podsumowanie rok po roku wszystkie posty na rok na danym forum 2010, 2011...
 
+Dane.R (załadowanie danych) Funkcje.R (plik roboczy) Wynik.md (schludnie same przetworzone dane)
+wszystko wewnątrz jednego projektu np jeżeli mamy dane Music ścieżka Music/Posts.xml
 
+Podział ról:
+Janek:
+pierwsze zapytanie
+
+Martyna:
+drugie zapytanie
+trzecie zapytanie
+montaż filmu 
